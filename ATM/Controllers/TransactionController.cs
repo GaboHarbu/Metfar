@@ -17,7 +17,7 @@
         }
 
         [Authorize]
-        [HttpGet("{cardNumber}")]
+        [HttpGet("cardNumber")]
         public async Task<IActionResult> GetTransactions(string cardNumber)
         {
             var request = new GetTransactionsRequest { CardNumber = cardNumber };

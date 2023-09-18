@@ -17,7 +17,7 @@
             _mediator = mediator;
         }
 
-        [HttpGet("{cardNumber}")]
+        [HttpGet("cardNumber")]
         public async Task<IActionResult> GetBalance(string cardNumber)
         {
             var request = new GetAccountRequest { CardNumber = cardNumber };

@@ -3979,11 +3979,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\ATM\\ATM.csproj",
+      "projectUniqueName": "C:\\Git\\Metfar\\ATM\\ATM.csproj",
       "projectName": "ATM",
-      "projectPath": "C:\\Git\\ATM\\ATM.csproj",
+      "projectPath": "C:\\Git\\Metfar\\ATM\\ATM.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\ATM\\obj\\",
+      "outputPath": "C:\\Git\\Metfar\\ATM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -74,6 +74,11 @@
 
         private static void ValidateWithdraw(WithdrawMoneyRequest request, Domain.Account account)
         {
+            if (request.Amount <= 0)
+            {
+                throw new InvalidOperationException("Withdrawal amount must be greater than zero.");
+            }
+
             if (account.Balance < request.Amount)
             {
                 throw new InvalidOperationException("Withdrawal cannot be performed as the balance is insufficient.");

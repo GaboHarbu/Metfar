@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Lt/jziLpwokKcWWYNxeo1XtkWvehhrcOZW0o3uyVZxU+V3knON9OUBaId4+mip51KJjpcqGMi0n6F3vma5/UA==",
+  "dgSpecHash": "HOJH5R5aXa2/l/IoZZ4Qj3eTAcOM/ne324G1M0PiFOlEfjtAfaOdK7YhoT8BhzAm4Z1vfnNHTByVn/Y9B9L5nA==",
   "success": true,
-  "projectFilePath": "C:\\Git\\ATM\\ATM.csproj",
+  "projectFilePath": "C:\\Git\\Metfar\\ATM\\ATM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
